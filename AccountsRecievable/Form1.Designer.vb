@@ -64,7 +64,7 @@ Partial Class Form1
         '
         Me.GroupBox1.Controls.Add(Me.ListBox1)
         Me.GroupBox1.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!)
-        Me.GroupBox1.ForeColor = System.Drawing.Color.Firebrick
+        Me.GroupBox1.ForeColor = System.Drawing.Color.WhiteSmoke
         Me.GroupBox1.Location = New System.Drawing.Point(12, 12)
         Me.GroupBox1.Name = "GroupBox1"
         Me.GroupBox1.Size = New System.Drawing.Size(200, 320)
@@ -77,7 +77,7 @@ Partial Class Form1
         Me.ListBox1.BackColor = System.Drawing.Color.FromArgb(CType(CType(55, Byte), Integer), CType(CType(55, Byte), Integer), CType(CType(55, Byte), Integer))
         Me.ListBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.ListBox1.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.ListBox1.ForeColor = System.Drawing.Color.Firebrick
+        Me.ListBox1.ForeColor = System.Drawing.Color.WhiteSmoke
         Me.ListBox1.FormattingEnabled = True
         Me.ListBox1.IntegralHeight = False
         Me.ListBox1.ItemHeight = 16
@@ -92,7 +92,7 @@ Partial Class Form1
         Me.GroupBox2.Controls.Add(Me.Label8)
         Me.GroupBox2.Controls.Add(Me.CreateAccountBtn)
         Me.GroupBox2.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.GroupBox2.ForeColor = System.Drawing.Color.Firebrick
+        Me.GroupBox2.ForeColor = System.Drawing.Color.WhiteSmoke
         Me.GroupBox2.Location = New System.Drawing.Point(12, 338)
         Me.GroupBox2.Name = "GroupBox2"
         Me.GroupBox2.Size = New System.Drawing.Size(200, 100)
@@ -146,7 +146,7 @@ Partial Class Form1
         Me.GroupBox3.Controls.Add(Me.GroupBox5)
         Me.GroupBox3.Controls.Add(Me.GroupBox4)
         Me.GroupBox3.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.GroupBox3.ForeColor = System.Drawing.Color.Firebrick
+        Me.GroupBox3.ForeColor = System.Drawing.Color.WhiteSmoke
         Me.GroupBox3.Location = New System.Drawing.Point(218, 12)
         Me.GroupBox3.Name = "GroupBox3"
         Me.GroupBox3.Size = New System.Drawing.Size(570, 426)
@@ -267,7 +267,7 @@ Partial Class Form1
         Me.GroupBox5.Controls.Add(Me.DeleteLastPaymentBtn)
         Me.GroupBox5.Controls.Add(Me.ListBox2)
         Me.GroupBox5.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.GroupBox5.ForeColor = System.Drawing.Color.Firebrick
+        Me.GroupBox5.ForeColor = System.Drawing.Color.WhiteSmoke
         Me.GroupBox5.Location = New System.Drawing.Point(6, 271)
         Me.GroupBox5.Name = "GroupBox5"
         Me.GroupBox5.Size = New System.Drawing.Size(558, 149)
@@ -290,7 +290,7 @@ Partial Class Form1
         '
         Me.ListBox2.BackColor = System.Drawing.Color.FromArgb(CType(CType(55, Byte), Integer), CType(CType(55, Byte), Integer), CType(CType(55, Byte), Integer))
         Me.ListBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.ListBox2.ForeColor = System.Drawing.Color.Firebrick
+        Me.ListBox2.ForeColor = System.Drawing.Color.WhiteSmoke
         Me.ListBox2.FormattingEnabled = True
         Me.ListBox2.IntegralHeight = False
         Me.ListBox2.ItemHeight = 16
@@ -311,7 +311,7 @@ Partial Class Form1
         Me.GroupBox4.Controls.Add(Me.Label6)
         Me.GroupBox4.Controls.Add(Me.Label5)
         Me.GroupBox4.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.GroupBox4.ForeColor = System.Drawing.Color.Firebrick
+        Me.GroupBox4.ForeColor = System.Drawing.Color.WhiteSmoke
         Me.GroupBox4.Location = New System.Drawing.Point(6, 152)
         Me.GroupBox4.Name = "GroupBox4"
         Me.GroupBox4.Size = New System.Drawing.Size(558, 113)
